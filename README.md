@@ -8,7 +8,7 @@ Team Name : Glitch Devs
 Team Members Name :
    1. Anuj Umesh Yadav ( AnujY77111 )
    2. Samarjeet Murar Shinde ( Samarjeet20 )
-   3. Rinit Khaire ( @corporalguru )
+   3. Rinit Khaire ( corporalguru )
    4. Navneet Maurya ( Navneetmaurya108 )
 
 Proposed Features
@@ -29,9 +29,9 @@ Tech Stack :
    4. Github
    5. MongoDB
    6. Express.Js
-   7. React.Js
-   8. Node.Js
-   9. Bootstrap 
+   7. Node.Js
+      
+
    
    
    	
