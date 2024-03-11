@@ -8,7 +8,7 @@ Team Name : Glitch Devs
 Team Members Name :
    1. Anuj Umesh Yadav ( AnujY77111 )
    2. Samarjeet Murar Shinde ( Samarjeet20 )
-   3. Rinit Khaire ( corporalguru )
+   3. Rinit Khaire ( CorporalGuru )
    4. Navneet Maurya ( Navneetmaurya108 )
 
 Proposed Features
