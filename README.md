@@ -1,15 +1,15 @@
 Innodev 2024
 
 Problem Statement Name : 
-          ECOMMERCE APPLICATION
+          Ecommerce Application 
 
 Team Name : Glitch Devs
 
 Team Members Name :
-    1. Anuj Umesh Yadav ()
-    2. Samarjeet Murar Shinde ()
-    3. Rinit Khaire ()
-    4. Navneet Maurya ()
+    1. Anuj Umesh Yadav ( AnujY77111 )
+    2. Samarjeet Murar Shinde ( Samarjeet20 )
+    3. Rinit Khaire ( @corporalguru )
+    4. Navneet Maurya ( Navneetmaurya108 )
 
 Proposed Features
    1. User Registration and Login
@@ -23,15 +23,18 @@ Proposed Features
 Innovation :  NA
 
 Tech Stack : 
-   •	HTML
-   •	CSS
-   •	Javascript
-   •	React.js
-   •	Github
-   •	MongoDB
-   •	Express.Js
-   •	Node.Js
-   •	Bootstrap
+   1. HTML
+   2. CSS
+   3. Javascript
+   4. React.Js
+   5.Github
+   6. MongoDB
+   7. Express.Js
+   8. Node.Js
+   9. Bootstrap
+   
+   
+   	
   
 
 
